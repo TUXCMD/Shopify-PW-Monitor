@@ -5,7 +5,7 @@ from discord_webhook import DiscordEmbed, DiscordWebhook
 from datetime import datetime
 
 
-monitor_store_url = 'https://shop.balkobot.com'
+monitor_store_url = 'https://eflash-us.doverstreetmarket.com'
 
 
 webhook_url = ''#Input Your Webhook URL
