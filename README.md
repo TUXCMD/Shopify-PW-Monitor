@@ -5,4 +5,4 @@ Input your Discord Webhook URL and choose a delay if you want to. And change the
 
 Wrote this in 5 mintues 
 
-<img scr='example.jpg'>
+<img src='example.jpg'>
